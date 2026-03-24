@@ -1,3 +1,3 @@
-TEXT SATU NOMOR 1
+Text Nomor Satu
 lorem ipsum
 text 1 berakhir
